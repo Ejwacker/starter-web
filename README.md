@@ -8,6 +8,9 @@ This is intro dude!
 
 ## Purpose
 
+As purpose should be purpose is always great!
 ## Deployment
+
+This is when you go to sea in a sailboat
 
 ### How To Contribute
