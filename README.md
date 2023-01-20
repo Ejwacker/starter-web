@@ -21,6 +21,8 @@ This is when you go to sea in a sailboat
 
 ### How To Contribute
 
+Please fork this thing.
+
 ###Copyright
 
 Git. Training
