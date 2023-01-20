@@ -20,3 +20,7 @@ This is when you go to sea in a sailboat
 >>>>>>> a0f4358f4fd962e68e821422995253d7a2064b7c
 
 ### How To Contribute
+
+###Copyright
+
+Git. Training
