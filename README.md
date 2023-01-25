@@ -1,7 +1,7 @@
 # Starter Web Project
 
 <<<<<<< HEAD
-This is a simple website project for showing how to use Git and Github together. Adding my line, more changes.
+This is a simple website project for showing how to use Git and Github together. Adding my line, more changes. Updating for emerge. Stitch.
 
 ## Introduction
 
